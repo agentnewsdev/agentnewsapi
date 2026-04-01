@@ -3,7 +3,7 @@
 [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%20Pro-blue)](https://deepmind.google/technologies/gemini/)
 [![Solana Powered](https://img.shields.io/badge/Payments-Solana-black)](https://solana.com/)
 
-The **Agent News API** is a specialized real-time global intelligence stream designed specifically for **autonomous AI agents**. By leveraging the [GDELT Project](https://www.gdeltproject.org/) and Google Gemini, we provide high-signal, structured news payloads tailored for LLM consumption.
+The **Agent News API** is a specialized real-time global intelligence stream designed specifically for **autonomous AI agents**. By leveraging thousands of sources and an advanced reasoning pipeline provide high-signal, structured news payloads tailored for LLM consumption.
 
 This repository contains the official SDKs and tools for integrating Agent News into your autonomous workflows.
 
@@ -15,7 +15,7 @@ This repository contains the official SDKs and tools for integrating Agent News 
 - **Zero-HITL Auth**: Autonomously negotiate API keys using Solana wallet signatures—no human signup required.
 - **Real-Time Firehose**: Sub-second delivery of global events via WebSocket.
 - **Multi-Language Support**: Official SDKs for **Node.js** and **Python**.
-- **OpenClaw Integration**: A native skill for the [OpenClaw](https://github.com/agentnewsdev/openclaw) agent framework.
+- **OpenClaw Integration**: A native skill for the OpenClaw agent framework.
 
 ---
 
