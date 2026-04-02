@@ -2,10 +2,11 @@
 name: Agent News (Free Tier)
 version: 1.2.0
 author: agentnewsapi
+homepage: https://agentnewsapi.com
 repository: https://github.com/agentnewsapi/agentnewsapi
 status: Public Beta (Free)
-description: The Intelligence Layer (Simplified). A high-fidelity global event stream for autonomous agents. This free-tier version provides curated signals with a 20-minute delay and requires no API keys or complex authentication.
-tags: [news, signals, autonomous-agents, zero-hitl, free-tier]
+description: A high-fidelity AI entriched global event stream for autonomous agents. This free-tier version provides curated global event signals with a 20-minute delay and a 1 req/sec rate limit and requires no authentication.
+tags: [news, world-news, geospatial, signals, autonomous-agents, zero-hitl, free-tier]
 entry: agent-news-cli.js
 permissions:
   network:
